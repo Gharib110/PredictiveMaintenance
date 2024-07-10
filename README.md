@@ -1,4 +1,4 @@
-# PredictiveMaintenance
+# Predictive Maintenance
 
 - Data-driven predictive Maintenance with a focus on the NASA TurboFan JetEngine Dataset [link](https://data.nasa.gov/Aerospace/CMAPSS-Jet-Engine-Simulated-Data/ff5v-kuh6/about_data)
 - My Bachelor's Degree final project with its Comprehensive report in Persian 
